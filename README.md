@@ -1,6 +1,6 @@
 ## Hello, im ahmad 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadfalcon555)](https://github.com/ahmadfalcon555/github-readme-stats)
+Welcome to this random part of github, maybe you don't get what you want here. Regardless, welcome
 <!--
 **AhmadFalcon555/ahmadfalcon555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
